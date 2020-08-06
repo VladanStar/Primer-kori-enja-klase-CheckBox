@@ -1,0 +1,2 @@
+# Primer-kori-enja-klase-CheckBox
+Primer korišćenja klase CheckBox Primer daje listing klase CheckBoxDemo koje kreira i koristi polja za potvrđivanje nekog svojstva (Bold ili Italic), kao podklasa klase ButtonBoxDemo. Radi prikaza korišćenja klase CheckBox, napisaćemo program koji dodaje dva polja za odabiranje pod nazivom Bold i Italic, da bi se omogućilo da korisnik odabere pojavno svojstvo fonta koji koristi. Slika 2 prikazuje GUI interfejsa, a daje se i listing klase CheckBoxDemo koja kreira i koristi ova GUI interfejs.
